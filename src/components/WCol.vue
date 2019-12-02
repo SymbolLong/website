@@ -16,15 +16,15 @@
 </template>
 
 <script>
-    export default {
-        name: "WCol",
-        props: ["item"],
-        methods: {
-            itemClick: function () {
+export default {
+  name: 'WCol',
+  props: ['item'],
+  methods: {
+    itemClick: function () {
 
-            }
-        }
     }
+  }
+}
 </script>
 
 <style scoped>

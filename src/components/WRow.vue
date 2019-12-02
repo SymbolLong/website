@@ -5,13 +5,13 @@
 </template>
 
 <script>
-    import WCol from "./WCol";
+import WCol from './WCol'
 
-    export default {
-        name: "WRow",
-        components: {WCol},
-        props: ["cols"]
-    }
+export default {
+  name: 'WRow',
+  components: { WCol },
+  props: ['cols']
+}
 </script>
 
 <style scoped>

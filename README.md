@@ -1,24 +1,24 @@
-# 龙之站
+# website
 
-## 项目安装
+## Project setup
 ```
 npm install
 ```
 
-### 项目启动
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### 项目构建
+### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### 项目缩进
+### Lints and fixes files
 ```
 npm run lint
 ```
 
-### 项目配置
-查看 [配置说明](https://cli.vuejs.org/config/).
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
